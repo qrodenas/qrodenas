@@ -1,4 +1,4 @@
-### ¡Hola! I'm Pablo 👋
+### ¡Hola!
 
 I'm an incoming PhD student in the Department of Mathematics at **Imperial College London**.
 Before that, I completed my MSc in Quantum Science and Engineering at **EPFL** as a "la Caixa"
