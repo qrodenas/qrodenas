@@ -16,8 +16,6 @@ Fault-tolerant quantum algorithms · quantum chemistry · artificial intelligenc
 - **Quantum Circuits for the Metropolis–Hastings Algorithm** — *J. Phys. A: Math. Theor.* (2026) · [DOI](https://doi.org/10.1088/1751-8121/ae8983) · [arXiv:2506.11576](https://arxiv.org/abs/2506.11576)
 - **MM-HSD: Multi-Modal Hate Speech Detection in Videos** — *ACM MM '25* · [DOI](https://doi.org/10.1145/3746027.3754558) · [arXiv:2508.20546](https://arxiv.org/abs/2508.20546)
 
-Paper code lives in the collaborators' repos (e.g. [`idiap/mm-hsd`](https://github.com/idiap/mm-hsd) for MM-HSD).
-
 #### 🔗 Elsewhere
 
 [Google Scholar](https://scholar.google.com/citations?user=sSy7VYMAAAAJ) · [ORCID](https://orcid.org/0009-0007-0270-1977)
