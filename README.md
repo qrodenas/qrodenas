@@ -1,11 +1,10 @@
-## Pablo Rodenas Ruiz
+### ¡Hola! I'm Pablo 👋
 
-*Incoming PhD student · Department of Mathematics, Imperial College London*
-
-I work on quantum algorithms. I did my MSc in Quantum Science and Engineering at **EPFL**
-as a "la Caixa" Fellow, with my master's thesis carried out as a Visiting Fellow in the
-[Lee group](https://joonholeegroup.com/) at **Harvard University**, on quantum algorithms
-for quantum chemistry.
+I'm an incoming PhD student in the Department of Mathematics at **Imperial College London**.
+Before that, I completed my MSc in Quantum Science and Engineering at **EPFL** as a "la Caixa"
+Fellow, with my master's thesis carried out as a Visiting Fellow in the
+[Lee group](https://joonholeegroup.com/) at **Harvard University**, on quantum algorithms for
+quantum chemistry.
 
 #### 🔬 Research interests
 
@@ -19,7 +18,4 @@ Fault-tolerant quantum algorithms · quantum chemistry · artificial intelligenc
 
 #### 🔗 Elsewhere
 
-[![Website](https://img.shields.io/badge/Website-pablorodenas.me-0000cd)](https://pablorodenas.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablorodenasruiz-0A66C2)](https://www.linkedin.com/in/pablorodenasruiz/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=sSy7VYMAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0270--1977-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0270-1977)
+[**pablorodenas.me**](https://pablorodenas.me) · [**LinkedIn**](https://www.linkedin.com/in/pablorodenasruiz/) · [**Google Scholar**](https://scholar.google.com/citations?user=sSy7VYMAAAAJ) · [**ORCID**](https://orcid.org/0009-0007-0270-1977)
