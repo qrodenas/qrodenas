@@ -1,14 +1,12 @@
 ### ¡Hola!
 
-I'm an incoming PhD student in the Department of Mathematics at **Imperial College London**.
-Before that, I completed my MSc in Quantum Science and Engineering at **EPFL** as a "la Caixa"
-Fellow, with my master's thesis carried out as a Visiting Fellow in the
-[Lee group](https://joonholeegroup.com/) at **Harvard University**, on quantum algorithms for
-quantum chemistry.
+I'm a first-year PhD student in quantum computing at **Imperial College London**, in the Mathematical
+Finance group, advised by Dr Eyal Neuman and Prof. Jack Jacquier and funded by a Roth Scholarship.
+Previously: MSc at **EPFL** as a "la Caixa" Fellow, with my master's thesis at **Harvard**.
 
 #### 🔬 Research interests
 
-Fault-tolerant quantum algorithms · quantum chemistry · artificial intelligence
+Fault-tolerant quantum algorithms · scientific computing and finance · AI-assisted mathematics and formal verification
 
 #### 📄 Selected papers
 
